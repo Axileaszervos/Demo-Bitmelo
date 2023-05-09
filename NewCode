@@ -39,7 +39,6 @@ const mushrooms2 = [
   ]
 
 let numberOfGrabbedMushrooms = 0;
-let numberOfGrabbedMushrooms2 = 0;
 let gameStartTime = 0; 
 
 
